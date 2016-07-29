@@ -1,0 +1,22 @@
+.Pet {
+  float: left;
+  width: 600px;
+  padding: 10px;
+  border: 1px solid green;
+}
+
+.Pet h2 , p {
+  font-family: sans-serif;;
+  font-style: italic;
+  text-align: left;
+}
+
+h1, h2 {
+  font-family: monospace;
+  font-weight: bold;
+  text-align: center;
+}
+
+img {
+  width: 50%;
+}
